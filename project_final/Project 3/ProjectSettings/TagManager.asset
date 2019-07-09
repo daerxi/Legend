@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Block
+  - enemy
+  - heal
+  - helmet
+  - sheild
+  - sword
+  - playerWithHelmet
+  - door
+  - Speed
+  - love
+  - text
+  - boss
+  - trap
+  - map
+  - maxhp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGround
+    uniqueID: 2465913347
+    locked: 0
+  - name: playGround
+    uniqueID: 1386639459
+    locked: 0
+  - name: frontGround
+    uniqueID: 3909877319
+    locked: 0
+  - name: UI
+    uniqueID: 4070319943
+    locked: 0

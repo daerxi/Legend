@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4CF8333C-0521-55EC-BF4C-A94E6153105F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BGM.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripte/KnightController.cs" Line="218" Column="48" />
+      <File FileName="Assets/Scenes/Scripte/animatorController.cs" Line="24" Column="46" />
+      <File FileName="Assets/BGM.cs" Line="18" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
